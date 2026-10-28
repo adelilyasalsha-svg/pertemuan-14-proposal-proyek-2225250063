@@ -1,0 +1,6 @@
+REKAP NILAI MATEMATIKA
+Rata-rata: 83.60
+Minimum: 65.0
+Maksimum: 100.0
+Jumlah tuntas: 4
+Jumlah belum tuntas: 1
